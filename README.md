@@ -1,2 +1,3 @@
 # HBD-Manas
- Website to wish my brother a happy 18th birthday
+A personal Project
+Website to wish my brother, Manas, a Happy 18th Birthday
